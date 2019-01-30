@@ -1,5 +1,7 @@
 # AI
 
+### Some algorithms in Artificial Intelligence
+
 ## Genetic Algorithm
 
 ### Description: 
